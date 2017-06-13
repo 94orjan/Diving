@@ -1,1 +1,1 @@
-# Diving
+# DivingJournal
